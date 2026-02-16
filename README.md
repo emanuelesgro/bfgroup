@@ -11,6 +11,6 @@ Il sito è fatto con HTML, CSS e JavaScript vanilla, senza framework.
 - In locale: scarica la cartella del progetto e apri `Untitled-1.html` con un browser.
 - Online: la pagina è pubblicata con GitHub Pages.
 
-Pagina web: https://emanuelesgro.github.io/gruppo-bf-sostenibilita/Untitled-1.html
+Pagina web:[ https://emanuelesgro.github.io/gruppo-bf-sostenibilita/Untitled-1.html](https://emanuelesgro.github.io/bfgroup/sostenibilita)
 
 Repository: [https://github.com/emanuelesgro/gruppo-bf-sostenibilita](https://github.com/emanuelesgro/bfgroup)
